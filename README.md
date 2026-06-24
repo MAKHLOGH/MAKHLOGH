@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MAKHLOGH&color=blue&style=flat-square" alt="Profile Views">
   <a href="https://github.com/MAKHLOGH">
     <img src="https://img.shields.io/badge/-𝙶𝙸𝚃𝙷𝚄𝙱-181717?style=flat-square&logo=GitHub&logoColor=white">
   </a>
