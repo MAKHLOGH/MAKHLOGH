@@ -4,11 +4,9 @@
 
 <h1 align="center">𝘔𝘳. 𝘚𝘦𝘤𝘵𝘪𝘰𝘯</h1>
 
-<!-- متن تایپی با همان جملات لینک شما و آدرس اصلی -->
+<!-- به جای متن متحرک، یک بنر ساده و زیبا با ایموجی قرار می‌دهیم -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=𝙿𝚢𝚝𝚑𝚘𝚗+𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛;𝚂𝚌𝚛𝚒𝚙𝚝+𝚆𝚛𝚒𝚝𝚎𝚛;𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢+𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝;𝙾𝚙𝚎𝚗+𝚂𝚘𝚞𝚛𝚌𝚎+𝙻𝚘𝚟𝚎𝚛" alt="Typing SVG">
-  </a>
+  <img src="https://img.shields.io/badge/-Python%20Developer%20%7C%20Script%20Writer%20%7C%20Cybersecurity%20Enthusiast-2b2b2b?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer | Script Writer | Cybersecurity Enthusiast">
 </p>
 
 <p align="center">
@@ -21,11 +19,9 @@
 
 ---
 
-<!-- متن متحرک جدید با جملات جالب از لینک شما -->
+<!-- یک بنر خوش‌آمدگویی ساده با ایموجی -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=𝚃𝚢𝚙𝚎+𝚖𝚎𝚜𝚜𝚊𝚐𝚎𝚜+𝚎𝚟𝚎𝚛𝚢𝚠𝚑𝚎𝚛𝚎!;𝙰𝚍𝚍+𝚊+𝚋𝚒𝚘+𝚝𝚘+𝚢𝚘𝚞𝚛+𝚙𝚛𝚘𝚏𝚒𝚕𝚎!;𝙰𝚍𝚍+𝚊+𝚍𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗+𝚝𝚘+𝚢𝚘𝚞𝚛+𝚛𝚎𝚙𝚘!;𝙼𝚊𝚔𝚎+𝚢𝚘𝚞𝚛+𝚛𝚎𝚊𝚍𝚖𝚎+𝚜𝚝𝚊𝚗𝚍+𝚘𝚞𝚝!" alt="Funny Typing SVG">
-  </a>
+  <img src="https://img.shields.io/badge/-✧%20Welcome%20to%20my%20profile%20✧-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Welcome">
 </p>
 
 <p align="center">
@@ -38,8 +34,7 @@
   <b>𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙸𝙳:</b> <a href="https://github.com/MAKHLOGH">https://github.com/MAKHLOGH</a>
 </p>
 
+<!-- یک فوتر ساده و مرتب -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=450&lines=✨+𝚃𝚑𝚊𝚗𝚔𝚜+𝚏𝚘𝚛+𝚟𝚒𝚜𝚒𝚝𝚒𝚗𝚐+✨;⭐+𝙳𝚘𝚗'𝚝+𝚏𝚘𝚛𝚐𝚎𝚝+𝚝𝚘+𝚜𝚝𝚊𝚛+𝚛𝚎𝚙𝚘𝚜+⭐" alt="Footer Typing SVG">
-  </a>
+  <img src="https://img.shields.io/badge/-✨%20Thanks%20for%20visiting%20✨-gold?style=for-the-badge&logo=github&logoColor=black" alt="Thanks">
 </p>
